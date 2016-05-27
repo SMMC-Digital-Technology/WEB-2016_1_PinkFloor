@@ -1,0 +1,11 @@
+header {
+    border-bottom: 2px solid black;
+}
+
+html {
+    background-color: #DCDCDC
+}
+
+header img {
+    width: 75px;
+}
